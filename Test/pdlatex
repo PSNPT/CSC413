@@ -1,0 +1,10 @@
+\begin{table}
+\caption{Performance Metrics}
+\begin{tabular}{llllll}
+ & LOSS & ACCURACY & AUC & PRECISION & RECALL \\
+LSTM & 0,617 & 0,667 & 0,718 & 0,675 & 0,751 \\
+CNN & 0,353 & 0,853 & 0,933 & 0,861 & 0,871 \\
+TRANSFORMER & 0,293 & 0,888 & 0,961 & 0,907 & 0,884 \\
+SPACE & 0,287 & 0,876 & 0,954 & 0,873 & 0,904 \\
+\end{tabular}
+\end{table}
