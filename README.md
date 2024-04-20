@@ -1,5 +1,7 @@
 # Preliminary Steps:
-Edit the environmental variable to include all required keys
+Edit the environmental variable to include all required keys:
+ROOT <- The root of this directory
+CLIENT_ID, CLIENT_SECRET, USER_AGENT <- API keys and values required to use PRAW
 
 # To train:
 First run ./Training/inputs.py to generate and fill all folders in Data
